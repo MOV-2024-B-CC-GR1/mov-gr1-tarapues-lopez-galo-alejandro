@@ -1,0 +1,1 @@
+Recinto(id=1, nombre=asda, tipo=Selva, capacidad=12)

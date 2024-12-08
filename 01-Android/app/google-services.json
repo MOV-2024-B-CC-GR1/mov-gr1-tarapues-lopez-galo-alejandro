@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309243175001",
+    "project_id": "cc-2024b-mov-gr1-tlga",
+    "storage_bucket": "cc-2024b-mov-gr1-tlga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309243175001:android:e80d599d8708abba5f9148",
+        "android_client_info": {
+          "package_name": "com.example.ccgr12024b_gatl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaYUpOJqGncxIGpdugHgmR7Do-lMVInE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

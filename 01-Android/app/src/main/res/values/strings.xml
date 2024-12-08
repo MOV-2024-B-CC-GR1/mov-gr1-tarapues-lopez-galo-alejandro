@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ccgr12024b_gatl</string>
+    <string name="saludo">Hello Friends</string>
+    //landscape -ingles
+    <color name="saludo_color">#EF3701</color>
+    <color name="background_landscape">#737DB3</color>
+    <color name="background_portrait">#D58FA8</color>
+</resources>
